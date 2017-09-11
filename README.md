@@ -1,5 +1,5 @@
 # mageK
-
+# [Freelance Magento Developer](https://www.phpfreelanceprogrammer.com/magento-programmer.html)
 ![](./build/static/image/logo.png)
 
 [![node](https://img.shields.io/badge/node-v6.10.2-blue.svg)]() [![npm](https://img.shields.io/npm/l/express.svg)]()
